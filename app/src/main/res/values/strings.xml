@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">UI_Profile</string>
+    <string name="teknik_industri">Teknik Industri</string>
+    <string name="teknik_informatika">Teknik Informatika</string>
+    <string name="_2018010">2018010</string>
+    <string name="arum_tri_pamungkas">Arum Tri Pamungkas</string>
+    <string name="teknologi_industri">Teknologi Industri</string>
+</resources>
